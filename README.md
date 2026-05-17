@@ -1,3 +1,10 @@
+NCL SCRIPTS TO CALCULATE MSSS AND CRPSS
+
+calc_MSSSensm_season_fullRand_Tmax.ncl:  For the calcluation of MSSS_ensm
+calc_MSSSunc_season_fullRand_Tmax.ncl:  For the calculation of MSSS_unc
+calc_CRPS_season_fullRand_Tmax.ncl:  For the calculation of CRPS of a specific randomization set
+calc_CRPSS_season_fullRand_Tmax.ncl:  For the calculation of CRPSS
+
 NCL SCRIPTS TO ESTIMATE MINIMUM ENSEMBLE SIZE
 
 minsize_MSSSensm_season_fullRand_Tmax.ncl:  For the estimation of minimum ensemble size based on MSSS_ensm
